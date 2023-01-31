@@ -1,4 +1,4 @@
-# Material Seminario CAPA-H
+# Material Seminario CAPAP-H
 
  * [Transparencias para el seminario](Creator-RISC-v.pdf)
 
